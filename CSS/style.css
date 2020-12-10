@@ -1,0 +1,61 @@
+.obrys{
+    border :1px solid black;
+    margin: 0 auto;
+}
+
+
+#header{
+    text-align: center;
+    width: 780px;
+    min-height: 55px;    
+}
+#naglowek{
+    width: 575px;
+    height: 55px;
+    float: left;
+    overflow: hidden;
+    text-align: center;
+}
+#info{
+    width: 200px;
+    height: 55px;
+    float: right;
+    overflow: hidden;
+    border-left: 1px solid black;
+    
+}
+#srodek{
+    width: 780px;
+	min-height: 400px;
+}
+#main{
+    width: 575px;
+    min-height: 400px;
+    float: left;
+}
+#panelPrawy{
+    width: 200px;
+    min-height: 400px;
+    float: right;
+    border-left: 1px solid black;
+}
+
+#stopka{
+    width: 780px;
+    height: 50px;
+    overflow: hidden;
+    text-align: center;
+}
+.komunikat{
+    font-size: 16pt;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+#loginFormWrapper{
+    width: 50%;
+    margin: 15% auto 0;
+}
+#loginFormWrapper table{
+    text-align: right;
+    margin-left: 15%;
+}
